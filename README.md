@@ -19,10 +19,10 @@ On the Google Image Search page, the user should be able to type in a query, cli
 **Query Advanced.**
 
 On the Google Advanced Search page, the user should be able to provide input for the following four fields (taken from Google’s own advanced search options):
-    Find pages with… “all these words:”
-    Find pages with… “this exact word or phrase:”
-    Find pages with… “any of these words:”
-    Find pages with… “none of these words:”
+* Find pages with… “all these words:”
+* Find pages with… “this exact word or phrase:”
+* Find pages with… “any of these words:”
+* Find pages with… “none of these words:”
 
 **Appearance.**
 
