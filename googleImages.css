@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,700&display=swap");
+
+html {
+    font-size: 14px;
+    font-family: 'Monterrat', sans-serif;
+}
+
+.container{
+    text-align: center;
+    margin-top: 300px;
+}
+
+.googleImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 380px;
+    height: 190px;
+}
+
+.Magnifying-Glass{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    margin-left: -40px;
+    margin-top: -25px;
+    margin-bottom: 30px;
+}
+
+.search-bar{
+    width: 650px;
+    border: 1px solid lightgray;
+    border-radius: 40px;
+    margin: 0 auto;
+    white-space: pre;
+    height: 40px;
+}
+
+.search-bar:hover{
+    border: 2px solid lightgray;
+}
+
+.bar{
+    background-color: transparent;
+    width: 500px;
+    font-size: 18px;
+    border: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.btn{
+    margin-top: 2%;
+    text-align: center;
+}
+
+.s{
+    border: none;
+    height: 35px;
+    color: #4d4d4d;
+    background: whitesmoke;
+}
+
+.s:hover{
+    border: 1px solid lightgray;
+}
+
+nav a{
+    color: black;
+    margin: 30px;
+    text-decoration: none;
+}
+
+nav{
+    display: flex;
+    flex-flow: row-reverse;
+}
+
+body{
+    margin: 0px;
+}
