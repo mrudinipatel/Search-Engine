@@ -1,6 +1,6 @@
 # Search-Engine
 
-**## Assigned by Harvard CS50's Web Programming with Python & JavaScript Course**
+## Assigned by Harvard CS50's Web Programming with Python & JavaScript Course
 
 **### Pages.**
 
